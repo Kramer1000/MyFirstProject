@@ -1,0 +1,14 @@
+Monday Morning
+You are starting to fix a new bug
+
+Steps:
+
+1- you need to work with the latest code, thats why we need to be on main branch (master)
+2- you need to "pull" to get latest code from server to your laptop.
+3- create a new branch. Git -> new branch  and give a name that is meaningful and click create
+on bottom right i should see new branch name
+4- ill do some changes. ill fix the bug
+5- when we finish, we will committ and push changes to (github)server
+6- we need to create a "pull request
+7- someone needs to approve my pull request so i can merge my changes"
+8- as soon as we merge our changes, it will be in the main(Master) branch
